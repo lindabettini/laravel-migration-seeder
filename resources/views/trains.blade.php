@@ -9,7 +9,10 @@
 </head>
 
 <body>
-  <h1>Trains</h1>
+  <header>
+    <h1>Trains</h1>
+  </header>
+
 </body>
 
 </html>
